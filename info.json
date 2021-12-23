@@ -1,1 +1,5 @@
-Hello World
+{
+    "places_i_have_lived": ["California", "Arizona", "Guatemala", "Idaho"],
+    "numbers": [1,2,3,4,5,6,7,8,9,10],
+    "mixture": [1, "California", 2, "Arizona", 3, "Guatemala", 4, "Idaho" ]
+}
